@@ -1,0 +1,18 @@
+{
+  "name": "angelic-warfare-for-atom",
+  "main": "./lib/angelic-warfare-for-atom",
+  "version": "0.0.1",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "angelic-warfare-for-atom:toggle"
+  },
+  "repository": "https://github.com/mrkeysh/angelic-warfare-for-atom.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

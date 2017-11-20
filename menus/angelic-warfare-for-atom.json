@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle angelic-warfare-for-atom",
+        "command": "angelic-warfare-for-atom:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "angelic-warfare-for-atom",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "angelic-warfare-for-atom:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
