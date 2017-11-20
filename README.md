@@ -1,5 +1,5 @@
 # Angelic Warfare for Atom Package
-[![Build Status](https://travis-ci.org/lukemurray/data-atom.svg?branch=master)](https://travis-ci.org/lukemurray/data-atom)
+[![Build Status](https://travis-ci.org/mrkeysh/angelic-warfare-for-atom.svg?branch=master)](https://travis-ci.org/mrkeysh/angelic-warfare-for-atom)
 
 Angelic Warfare is a simple
 
