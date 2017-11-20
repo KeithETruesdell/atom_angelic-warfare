@@ -1,11 +1,9 @@
-# Angelic Warfare for Atom Package
-[![Build Status](https://travis-ci.org/mrkeysh/angelic-warfare-for-atom.svg?branch=master)](https://travis-ci.org/mrkeysh/angelic-warfare-for-atom)
+# Angelic Warfare for Atom.io Package
 
 Angelic Warfare is a simple
 
 Feel free to open issues or make pull requests!
 
-![Data Atom](https://cloud.githubusercontent.com/assets/156625/15249612/ccd377b0-1963-11e6-88ad-42eee914fc38.gif)
 
 ## Features
 - Supports
