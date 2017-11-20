@@ -8,7 +8,16 @@
   "activationCommands": {
     "atom-workspace": "angelic-warfare-for-atom:toggle"
   },
-  "repository": "https://github.com/mrkeysh/angelic-warfare-for-atom.git",
+  "readme": "",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/mrkeysh/angelic-warfare-for-atom#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkeysh/angelic-warfare-for-atom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mrkeysh/angelic-warfare-for-atom/issues"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

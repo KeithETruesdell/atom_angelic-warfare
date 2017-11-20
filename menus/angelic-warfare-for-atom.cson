@@ -1,0 +1,19 @@
+# See https://atom.io/docs/latest/creating-a-package#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    { 'label': 'Show Prayer List', 'command': 'angelic-warfare-for-atom:toggle' }
+    { 'label': 'Completed Prayer', 'command': 'angelic-warfare-for-atom:toggle' }
+  ]
+
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Angelic Warfare'
+      'submenu': [
+        { 'label': 'Show Prayer List', 'command': 'angelic-warfare-for-atom:toggle' }
+        { 'label': 'Completed Prayer', 'command': 'angelic-warfare-for-atom:toggle' }
+      ]
+    ]
+  }
+]
