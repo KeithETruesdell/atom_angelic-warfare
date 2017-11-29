@@ -6,7 +6,8 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "angelic-warfare-for-atom:toggle"
+    "atom-workspace": "angelic-warfare-for-atom:toggle",
+    "atom-workspace": "angelic-warfare-for-atom:toggle2"
   },
   "readme": "",
   "readmeFilename": "README.md",

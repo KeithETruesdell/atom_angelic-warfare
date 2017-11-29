@@ -2,7 +2,7 @@
 'context-menu':
   'atom-text-editor': [
     { 'label': 'Show Prayer List', 'command': 'angelic-warfare-for-atom:toggle' }
-    { 'label': 'Completed Prayer', 'command': 'angelic-warfare-for-atom:toggle' }
+    { 'label': 'Completed Prayer', 'command': 'angelic-warfare-for-atom:toggle2' }
   ]
 
 'menu': [
@@ -12,7 +12,7 @@
       'label': 'Angelic Warfare'
       'submenu': [
         { 'label': 'Show Prayer List', 'command': 'angelic-warfare-for-atom:toggle' }
-        { 'label': 'Completed Prayer', 'command': 'angelic-warfare-for-atom:toggle' }
+        { 'label': 'Completed Prayer', 'command': 'angelic-warfare-for-atom:toggle2' }
       ]
     ]
   }
