@@ -55,3 +55,9 @@ under the LICENSE file in the root directory of this source tree.
 ## Help Improve Widget Counter By Changing Source Code
 
 See https://github.com/KeithETruesdell/atom_angelic-warfare/ for current documentation, support, tickets and requests.
+<<<<<<< HEAD
+=======
+=======
+Initial Contributing Guide
+>>>>>>> ba5b2794f70874c3392bf87b9b5b6729a0165116
+>>>>>>> master
