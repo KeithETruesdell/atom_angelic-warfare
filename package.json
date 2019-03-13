@@ -1,28 +1,42 @@
 {
-  "name": "angelic-warfare-for-atom",
-  "main": "./lib/angelic-warfare-for-atom",
-  "version": "0.0.1",
-  "description": "A short description of your package",
+  "name": "angelic-warfare",
+  "main": "./lib/angelic-warfare",
+  "version": "1.0.0",
+  "description": "A widget counter on the status bar.  Originally as a joke and created by AlynxZhou (thank you).",
+  "homepage": "https://github.com/KeithETruesdell/atom_angelic-warfare#readme",
   "keywords": [
+    "angelic warefare",
+	"devotional",
+	"religous",
+	"prayer",
+    "counter",
+    "increment",
+    "tally",
+    "upticks",
+    "slack",
+    "decaff",
+    "vanillaJS"
   ],
-  "activationCommands": {
-    "atom-workspace": "angelic-warfare-for-atom:toggle",
-    "atom-workspace": "angelic-warfare-for-atom:toggle2"
-  },
-  "readme": "",
-  "readmeFilename": "README.md",
-  "homepage": "https://github.com/mrkeysh/angelic-warfare-for-atom#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mrkeysh/angelic-warfare-for-atom.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mrkeysh/angelic-warfare-for-atom/issues"
-  },
+  "repository": "https://github.com/KeithETruesdell/atom_angelic-warfare",
   "license": "MIT",
+  "optionalDependencies": {},
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
+  "author": {
+    "name": "Keith E. Truesdell",
+    "email": "KeithETruesdell@gmail.com",
+    "url": "https://github.com/KeithETruesdell"
+  },
+  "bugs": {
+    "url": "https://github.com/KeithETruesdell/atom_angelic-warfare/issues"
+  },
+  "dependencies": {},
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
   }
 }
